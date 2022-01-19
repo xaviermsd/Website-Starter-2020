@@ -1,0 +1,2 @@
+# Website-Starter-2020
+In this code, I had created a responsive HTML5 website starting from scratch. I tried to add as many different features as possible, so I used Html5, CSS3 transitions and animations, Bootstrap Framework and some CSS Media Queries and so on. This code will show you the HTML with bootstrap structure and the required scripts and We'll style it using CSS3 features to create this awesome HTML5 cross-browser responsive website! All the best!
